@@ -1,0 +1,13 @@
+{
+    "fName":"Taiwo",
+    "lName":"olabanjo",
+    "pCode":10005,
+    "addCustomerFname":"input[placeholder='First Name']",
+    "addCustomerLname":"input[placeholder='Last Name']",
+    "addCustomerPcode":"input[placeholder='Post Code']",
+    "addCustomerBtn":"button[type='submit']",
+    "openAccount":"[ng-class='btnClass2']",
+    "selFullName":"#userSelect",
+    "selCurrency":"#currency",
+    "openCustomerBtn":"button[type='submit']"
+}
