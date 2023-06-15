@@ -22,8 +22,8 @@ describe("validate bank app",()=>{
         cy.get('[ng-class="btnClass3"]').click()
         cy.get("input[placeholder='Search Customer']").type("Taiwo{enter}")
         cy.get(':nth-child(5) > button').click()
-        // cy.on("window:alert",(text)=>{
-        //     expect(text).to.eql("Account created successfully with account Number :1016")
+        //cy.on("window:alert",(text)=>{
+        //   expect(text).to.eql("Account created successfully with account Number :1016")
         // })
     })
 })
